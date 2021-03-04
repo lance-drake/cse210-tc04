@@ -26,6 +26,8 @@ root                    (project root folder)
   +-- game              (specific game classes)
   +-- __init__.py       (python package file)
   +-- __main__.py       (entry point for program)
+  +-- player.py         (player for the game)
+  +-- dealer.py         (game dealer)
 +-- README.md           (general info)
 ```
 
