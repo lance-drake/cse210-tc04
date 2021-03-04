@@ -32,15 +32,15 @@ root                    (project root folder)
 ## Rules 
 Hilo is played according to the following rules.
 
--Individual cards are represented as a number from 1 to 13.
--The player starts the game with 300 points.
--The dealer displays the current card.
--The player guesses if the next one will be higher or lower.
--The dealer shows the next card.
--The player earns 100 points if they guessed correctly.
--The player loses 75 points if they guessed incorrectly.
--If a player reaches 0 points the game is over. Otherwise, the player decides whether or not to play again.
--If a player decides not to play again the game is over.
+  - Individual cards are represented as a number from 1 to 13.
+  - The player starts the game with 300 points.
+  - The dealer displays the current card.
+  - The player guesses if the next one will be higher or lower.
+  - The dealer shows the next card.
+  - The player earns 100 points if they guessed correctly.
+  - The player loses 75 points if they guessed incorrectly.
+  - If a player reaches 0 points the game is over. Otherwise, the player decides whether or not to play again.
+  - If a player decides not to play again the game is over.
 
 ## Required Technologies
 ---
